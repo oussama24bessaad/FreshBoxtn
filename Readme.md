@@ -2,7 +2,6 @@
 
 Freshboxtn is food delivery, Freshbox and local shopping platform.
 
-<img src="./docs/gitimage.gif" alt="">
 
 ## Features
 
@@ -14,9 +13,9 @@ Freshboxtn is food delivery, Freshbox and local shopping platform.
 
 ## Live Demo
 
-[Live Demo Link](https://clone-webapp.web.app/)
+[Live Demo Link](https://freshboxtn.herokuapp.com/)
 
-<img src="./docs/imageFront.png" alt="">
+
 
 ## Built With
 
@@ -80,7 +79,7 @@ john@example.com (Customer)
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/juanmndz/react-ecommerce-material/issues).
+Feel free to check the [issues page](https://github.com/oussama24bessaad/FreshBoxtn/issues).
 
 ## Show your support
 
