@@ -93,7 +93,8 @@ export default function Header() {
             variant="h6"
             className={classes.title}
           >
-            GroceryGo
+            Freshbox
+            <img src='logo.jpg' width='50' height='50'></img>
           </Typography>
           <div>
             {userInfo ? (

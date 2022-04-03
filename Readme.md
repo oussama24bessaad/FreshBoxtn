@@ -1,6 +1,6 @@
-# GroceryGo - React Shopping Platform  (MERN)
+# Freshboxtn - React Shopping Platform  (MERN)
 
-GroceryGo is food delivery, grocery and local shopping platform.
+Freshboxtn is food delivery, Freshbox and local shopping platform.
 
 <img src="./docs/gitimage.gif" alt="">
 
