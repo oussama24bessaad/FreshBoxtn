@@ -79,7 +79,7 @@ john@example.com (Customer)
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/juanmndz/react-ecommerce-material/issues).
+Feel free to check the [issues page](https://github.com/oussama24bessaad/FreshBoxtn/issues).
 
 ## Show your support
 
