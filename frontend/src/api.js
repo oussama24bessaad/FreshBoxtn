@@ -1,6 +1,6 @@
 import Axios from "axios";
 
-export const API_SERVER =  process.env.REACT_APP_ENV ? 'http://localhost:5000' : 'https://freshboxtn.herokuapp.com'
+export const API_SERVER =  process.env.REACT_APP_ENV ? 'http://localhost:5000' : 'https://freshbox1.herokuapp.com'
 
   export const getOrders = async () => {
     const response = await Axios.get(`${API_SERVER}/api/order/all`);
